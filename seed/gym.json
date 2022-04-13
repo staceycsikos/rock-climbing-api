@@ -1,0 +1,356 @@
+[
+  {
+    "name": "Central Rock Gym",
+    "location": 
+      { "fullAddress": "21 West End Ave, New York, NY 10069",
+        "address": "21 West End Ave",
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "10069"
+      },
+    "phoneNumber": 2122657625,
+    "image": "https://centralrockgym.com/manhattan/wp-content/uploads/sites/25/IMG_7337-min-1.jpg",
+    "oneDayPass": 33,
+    "membership": 125,
+    "rentalGear": "7",
+    "autoBelay": true,
+    "bouldering": true,
+    "topRoping": true,
+    "url": "https://centralrockgym.com/manhattan/"
+  },
+  {
+    "name": "The Cliffs at LIC",
+    "location": 
+      { "fullAddress": "11-11 44th Dr, Queens, NY 11101",
+        "address": "11-11 44th Dr",
+        "city": "Queens",
+        "state": "NY",
+        "zipcode": "11101"
+      },
+    "phoneNumber": 7187297625,
+    "image": "https://images.squarespace-cdn.com/content/v1/54ec9de7e4b0a4a224803d8e/1581455959280-JD6PNGUH233B52NB752E/image-asset.jpeg?format=2500w",
+    "oneDayPass": 32,
+    "membership": 125,
+    "rentalGear": 14,
+    "autoBelay": true,
+    "bouldering": true,
+    "topRoping": true,
+    "height": "not specified",
+    "url": "https://thecliffsclimbing.com/about-the-cliffs"
+  },
+  {
+    "name": "The Cliffs at DUMBO",
+    "location": 
+      { "fullAddress": "99 Plymouth St, Brooklyn, NY 11201",
+        "address": "99 Plymouth St",
+        "city": "Brooklyn,",
+        "state": "NY",
+        "zipcode": "11201"
+      },
+    "phoneNumber": 3478307625,
+    "image": "https://images.squarespace-cdn.com/content/5c69a4c5aadd34031f30a1b5/1554231495680-GHJ3ZRBYD9292ML54K9P/the_cliffs_at_dumbo_reopens_2019_web.jpg?format=1500w&content-type=image%2Fjpeg",
+    "oneDayPass": 12.50,
+    "membership": 50,
+    "rentalGear": 0,
+    "autoBelay": false,
+    "bouldering": true,
+    "topRoping": false,
+    "height": "not specified",
+    "url": "https://dumbo.thecliffsclimbing.com"
+  },
+  {
+    "name": "The Gravity Vault Hoboken, NJ",
+    "location": 
+      { "fullAddress": " 1423 Clinton St, Hoboken, NJ 07030",
+        "address": "1423 Clinton St",
+        "city": "Hoboken",
+        "state": "NJ",
+        "zipcode": "07030"
+      },
+    "phoneNumber": 2017401423,
+    "image": "https://gravityvault.com/img?f=_media/bannerimage1.png&w=1600&h=540&r=fit",
+    "oneDayPass": 28,
+    "membership": 85,
+    "rentalGear": 11,
+    "autoBelay": true,
+    "bouldering": true,
+    "topRoping": true,
+    "url": "https://gravityvault.com/locations/hoboken-nj"
+  },
+  {
+    "name": "GP81",
+    "location": 
+      { "fullAddress": "81 Quay St, Brooklyn, NY 11222",
+        "address": "81 Quay St",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11222"
+      },
+    "phoneNumber": 3476893082,
+    "image": "https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/157093433_2858317424456356_1229672740448998382_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=a26aad&_nc_ohc=B6GsQHHWF3wAX9gILlT&_nc_oc=AQn1rfq2l57f1j1Hh9EWAyNT6vb13cFlnocSsJNPuDzYLW9V3r67ChyLMlWSRfwdekg&_nc_ht=scontent-lga3-1.xx&oh=00_AT857K_nCo5MhLSE4njgPSvkN8Ws4tzJi0JKAhZPj2Q60w&oe=627C0953",
+    "oneDayPass": 27,
+    "membership": 108,
+    "rentalGear": 5,
+    "autoBelay": false,
+    "bouldering": true,
+    "topRoping": false,
+    "url": "https://www.gp-81.com"
+  },
+  {
+    "name": "Brooklyn Boulders Queensbridge",
+    "location": 
+      { "fullAddress": "23-10 41st Ave, Queens, NY 11101",
+        "address": "23-10 41st Ave",
+        "city": "Queens",
+        "state": "Ny",
+        "zipcode": "11101"
+      },
+    "phoneNumber": 7184827078,
+    "image": "https://brooklynboulders.com/wp-content/uploads/2020/06/42109389051_f11a989015_k-1440x961.jpg",
+    "oneDayPass": 25,
+    "membership": 117,
+    "rentalGear": 14,
+    "autoBelay": true,
+    "bouldering": true,
+    "topRoping": true,
+    "url": "https://brooklynboulders.com/queensbridge/"
+  },
+  {
+    "name": "Brooklyn Bouldering Project",
+    "location": 
+      { "fullAddress": "575 Degraw St, Brooklyn, NY 11217",
+        "address": "575 Degraw St",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11217"
+      },
+    "phoneNumber": 3478349066,
+    "image": "https://www.climbing.com/wp-content/uploads/2022/03/20200222-bkb_blocbuster2020_0616_49618329738_o.jpg?crop=535:301&width=1070&enable=upscale",
+    "oneDayPass": 36,
+    "membership": 107,
+    "rentalGear": 12,
+    "autoBelay": false,
+    "bouldering": true,
+    "topRoping": false,
+    "url": "https://brooklynboulderingproject.com"
+  },
+  {
+    "name": "Metro Rock Williamsburg",
+    "location": 
+      { "fullAddress": "150 Marcy Ave, Brooklyn, NY 11211",
+        "address": "150 Marcy Ave",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11211"
+      },
+    "phoneNumber": 9296007625,
+    "image": "https://images.squarespace-cdn.com/content/v1/60ccce5f4383e2382cdfa415/1633450429833-NE33GWEWAU59IWC47AJ7/Image+%285%29.jpeg",
+    "oneDayPass": 30,
+    "membership": 133,
+    "rentalGear": 7,
+    "autoBelay": false,
+    "bouldering": true,
+    "topRoping": false,
+    "url": "https://williamsburg.metrorock.com"
+  },
+  {
+    "name": "MetroRock Bushwick",
+    "location": 
+      { "fullAddress": "321 Starr St, Brooklyn, NY 11237",
+        "address": "321 Starr St,",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zipcode": "11237"
+      },
+    "phoneNumber": 9295007625,
+    "image": "https://images.squarespace-cdn.com/content/v1/60cccbe4ab9cb16f00763b70/1628711581208-RVIM9YN063VH9F7S1C9A/B5F14BD7-73B4-47CD-8469-57EB7BC59CC7.jpeg",
+    "oneDayPass": 30,
+    "membership": 133,
+    "rentalGear": 12,
+    "autoBelay": true,
+    "bouldering": true,
+    "topRoping": true,
+    "url": "https://bushwick.metrorock.com"
+  },
+  {
+    "name": "High Exposure Rock Climbing, Ninja Warrior & Parkour",
+    "location": 
+      { "fullAddress": "266 Union St, Northvale, NJ 07647",
+        "address": "266 Union St",
+        "city": "Northvale",
+        "state": "NJ",
+        "zipcode": "07647"
+      },
+    "phoneNumber": 2017688600,
+    "image": "https://bergenmama.com/images/uploads/high_exposure_cover_image_450.jpg",
+    "oneDayPass": 27,
+    "membership": 60,
+    "rentalGear": 9,
+    "autoBelay": "yes",
+    "bouldering": "yes",
+    "topRoping": "yes",
+    "url": "https://highexposureclimbing.com/general-info/pricing/"
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  },
+  {
+    "name": "",
+    "location": 
+      { "fullAddress": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zipcode": ""
+      },
+    "phoneNumber": "",
+    "image": "",
+    "oneDayPass": "",
+    "membership": "",
+    "autoBelay": "",
+    "bouldering": "",
+    "topRoping": "",
+    "url": ""
+  }
+]
