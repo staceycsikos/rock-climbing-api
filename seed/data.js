@@ -4,7 +4,7 @@ import gyms from "./gyms.json" assert { type: "json" };
 
 const insertData = async () => {
   //reset db
-  db.dropDatabase();
+  await db.dropDatabase();
 
   await Gym.insertMany(gyms);
 
