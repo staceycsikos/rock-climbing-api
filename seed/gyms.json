@@ -12,7 +12,7 @@
     "image": "https://centralrockgym.com/manhattan/wp-content/uploads/sites/25/IMG_7337-min-1.jpg",
     "oneDayPass": 33,
     "membership": 125,
-    "rentalGear": "7",
+    "rentalGear": 7,
     "autoBelay": true,
     "bouldering": true,
     "topRoping": true,
@@ -35,7 +35,6 @@
     "autoBelay": true,
     "bouldering": true,
     "topRoping": true,
-    "height": "not specified",
     "url": "https://thecliffsclimbing.com/about-the-cliffs"
   },
   {
@@ -55,7 +54,6 @@
     "autoBelay": false,
     "bouldering": true,
     "topRoping": false,
-    "height": "not specified",
     "url": "https://dumbo.thecliffsclimbing.com"
   },
   {
@@ -186,171 +184,9 @@
     "oneDayPass": 27,
     "membership": 60,
     "rentalGear": 9,
-    "autoBelay": "yes",
-    "bouldering": "yes",
-    "topRoping": "yes",
+    "autoBelay": true,
+    "bouldering": true,
+    "topRoping": true,
     "url": "https://highexposureclimbing.com/general-info/pricing/"
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
-  },
-  {
-    "name": "",
-    "location": 
-      { "fullAddress": "",
-        "address": "",
-        "city": "",
-        "state": "",
-        "zipcode": ""
-      },
-    "phoneNumber": "",
-    "image": "",
-    "oneDayPass": "",
-    "membership": "",
-    "autoBelay": "",
-    "bouldering": "",
-    "topRoping": "",
-    "url": ""
   }
 ]
