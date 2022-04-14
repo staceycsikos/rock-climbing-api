@@ -5,7 +5,7 @@ const Schema = mongoose.Schema;
 let Gym = new Schema({
   name: String,
   location: {
-    fullAddress: string,
+    fullAddress: String,
     address: String,
     city: String,
     state: String,

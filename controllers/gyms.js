@@ -1,4 +1,4 @@
-import Gym from "../models/gyms.js";
+import Gym from "../models/gym.js";
 
 export const getGyms = async (request, response) => {
   try {

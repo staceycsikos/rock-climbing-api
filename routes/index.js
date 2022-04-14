@@ -1,7 +1,6 @@
 import { Router } from "express";
+import gymsRoutes from "./gym.js";
 //only some of the functions of express
-
-import gymsRoutes from "./gyms.js";
 
 const router = Router();
 
