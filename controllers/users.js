@@ -41,6 +41,7 @@ export const logIn = (req, res) => {
         if (user.password === req.body.password) {
           var payload = {
             id: user.id,
+            name: user.name,
           };
           var token = jwt.encode(payload, config.jwtSecret);
           res.json({
